@@ -1,0 +1,5 @@
+FlexFlow is a fitness app designed to create personalized workout plans based on a user’s goals, experience level, and training schedule. The app helps users build structured routines for strength, weight loss, muscle gain, speed, conditioning, or general fitness. Instead of guessing what exercises to do each day, users can rely on FlexFlow to organize a clear plan that fits their needs.
+
+The app focuses on flexibility and ease of use. Users can choose how many days per week they want to train, the type of workouts they prefer, and the areas they want to improve. FlexFlow then turns that information into a practical workout plan with exercises, sets, reps, and training guidance. This makes it useful for beginners who need structure and for more experienced athletes who want a faster way to organize their training.
+
+FlexFlow is meant to keep fitness simple, organized, and motivating. By giving users a personalized plan in one place, the app helps them stay consistent, track their progress, and work toward their goals with more confidence.
